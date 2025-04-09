@@ -6,7 +6,7 @@
 ```bash
 git clone https://github.com/Bustle101/pract_6.git
 cd pract_6
-cd pract6/auth-system-main
+cd auth-system-main
 ```
 
 ### 2. Создайте и активируйте виртуальное окружение
