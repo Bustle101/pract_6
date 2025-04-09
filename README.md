@@ -12,7 +12,7 @@ cd auth-system-main
 ### 2. Создайте и активируйте виртуальное окружение
 ```bash
 python -m venv venv
-.\venv\Scripts\Activate  # Для Windows
+.\venv\Scripts\Activate 
 
 ```
 
